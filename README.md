@@ -27,7 +27,7 @@ New abbreviations are added on a regular basis, and will be downloaded automatic
 
 ## Support
 
-If you have any issues/questions or nice things to say to the author:
+If you need assistance, have questions, or would like to provide feedback to the author, please use one of the following methods:
 
 - Email the author: gimbapapps@gmail.com
 - Fill in the Google Forms: https://forms.gle/ErXimyrCtsRdiTkU7
