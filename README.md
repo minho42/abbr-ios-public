@@ -8,8 +8,8 @@ https://apps.apple.com/us/app/medical-abbreviations/id1005507112
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="screenshot1.png" alt="HealthRoster Before" style="width:49%; max-width:340px;">
-  <img src="screenshot2.png" alt="HealthRoster After" style="width:49%; max-width:340px;">
+  <img src="screenshot1.png" alt="list" style="width:49%; max-width:340px;">
+  <img src="screenshot2.png" alt="wiki" style="width:49%; max-width:340px;">
 </div>
 
 ## Features
